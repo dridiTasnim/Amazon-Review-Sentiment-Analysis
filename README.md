@@ -4,7 +4,7 @@ Welcome to the Amazon Reviews Sentiment Analysis project, where we delve into th
 
 ## Project Highlights 🌟
 
-- **Data Exploration and Preprocessing:** We conducted extensive data exploration and preprocessing on a 120,000-review subset of the dataset. This meticulous process ensures high data quality and paves the way for accurate sentiment analysis. 🧐🧹
+- **Data Exploration and Preprocessing:** I conducted extensive data exploration and preprocessing on a 120,000-review subset of the dataset. This meticulous process ensures high data quality and paves the way for accurate sentiment analysis. 🧐🧹
 
-- **Advanced NLP Techniques:** To achieve impressive accuracy in sentiment analysis, we harnessed the power of advanced NLP techniques. Our secret weapon? A fine-tuned Bert model in conjunction with TensorFlow. 🚀📊
+- **Advanced NLP Techniques:** To achieve impressive accuracy in sentiment analysis, I harnessed the power of advanced NLP techniques. My secret weapon? A fine-tuned Bert model in conjunction with TensorFlow. 🚀📊
 
